@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @James-Nunn
-- 👀 I’m interested in Coding... obviously
+- 👀 I’m interested in Coding, 
      Specifically iOS and Web Development
 - 🌱 I’m currently learning 2D animation in highschool and doing two online courses on iOS and Web development
 
