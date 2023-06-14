@@ -1,7 +1,14 @@
 - 👋 Hi, I’m @James-Nunn
-- 👀 I’m interested in Coding, 
-     Specifically iOS and Web Development
-- 🌱 I’m currently writin an application with a firebase backend in highschool and other iOS and Web development projects for fun.
+- 👀 I’m interested in mostly iOS and Web Development
+
+## Top Projects 
+- Roster Scraper - Python using Selenium [visit](https://github.com/James-Nunn/Roster-Scraper) <br>
+- Profanity Checker - iOS - using CSV [visit](https://github.com/James-Nunn/profanity-checker)
+
+## Coming soon
+- Assingment Task Tracker - iOS using CoreData
+- School Announcement App - iOS using Firebase
+- Weather Whale (weather app) - iOS using DarkSky API (Aquired by apple)
 
 <!---
 James-Nunn/James-Nunn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
