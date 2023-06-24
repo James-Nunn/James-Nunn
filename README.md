@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @James-Nunn
-- 👀 I’m interested in mostly iOS and Web Development
+- 👀 I love developing solutions to solve problems.
+- I mainly use web, iOS, and python stacks (not all together lol).
 
 ## Top Projects 
 - Roster Scraper - Python using Selenium [visit](https://github.com/James-Nunn/Roster-Scraper) <br>
