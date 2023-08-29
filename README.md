@@ -4,11 +4,11 @@
 
 ## Top Projects 
 - Roster Scraper - Python using Selenium [visit](https://github.com/James-Nunn/Roster-Scraper) <br>
-- Profanity Checker - iOS - using CSV [visit](https://github.com/James-Nunn/profanity-checker)
+- Profanity Checker - iOS - using CSV [visit](https://github.com/James-Nunn/profanity-checker) <br>
+- School Announcement App - iOS using Firebase [visit](https://github.com/James-Nunn/pa-announcement-app)
 
 ## Coming soon
 - Assingment Task Tracker - iOS using CoreData
-- School Announcement App - iOS using Firebase
 - Weather Whale (weather app) - iOS using DarkSky API (Aquired by apple)
 
 <!---
