@@ -5,7 +5,8 @@
 ## Top Projects 
 - Roster Scraper - Python using Selenium [visit](https://github.com/James-Nunn/Roster-Scraper) <br>
 - Profanity Checker - iOS - using CSV [visit](https://github.com/James-Nunn/profanity-checker) <br>
-- School Announcement App - iOS using Firebase [visit](https://github.com/James-Nunn/pa-announcement-app)
+- School PA Announcement App - iOS using Firebase [visit](https://github.com/James-Nunn/pa-announcement-app) <br>
+- Risk Roller a Quality of Life app for Risk - iOS [visit](https://github.com/James-Nunn/RiskRoller)
 
 ## Coming soon
 - Assingment Task Tracker - iOS using CoreData
